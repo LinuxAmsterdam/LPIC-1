@@ -3,7 +3,7 @@ LPIC-1
 
 LPIC-1 Course in Presentations and Demo's all in HTML/JavaScript (only in Dutch)
 
-I was a Cisco & Microsoft certified trainer and LPIC-1 Certified. I wanted to make an open source course and give this actual course in Amsteram in from August to December 2014.
+I was a Cisco & Microsoft certified trainer and LPIC-1 Certified. I wanted to make an open source course and gave this actual course in Amsteram in from August to December 2014.
 The first lesson was in LibreOffice Impress, but after a tip from a student who said that with TermRecord you could make recordings of CLI activity and play back in a browser, I decided to tranform the PowerPoint-like presentation into an Impress.js presentation that with HTML/CSS/JavaScript also ran in a browser.
 
 In the presentation there are slided and demo's and links to external sites like wikipedia.
